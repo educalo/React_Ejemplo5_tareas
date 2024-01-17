@@ -31,11 +31,13 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 
 ## Cosas Nuevas
 1.- Crear una lista de componentes.
+
 2.- Importar componentes de Internet y manejarlos.
 
 ## Mejoras
 
 1.- Almacenar las tareas que añade el usuario
+
 2.- Enfocar el problema poniendo en App.js todos los compoentes a visualizar, Lista de Tareas y manejar el estado en el fichero App.js
 
 
