@@ -1,0 +1,21 @@
+1.- Creamos la siguiente estructura dentro de src: carpeta componentes, hoja-de-estilo, imagenes.
+2.- Eliminamos los siguientes ficheros setupTest.js, reportWebVitals.js, App.test.js y los logos de React dentro de public.
+3.- Eliminamos las referencias a estos ficheros que hemos eliminados.
+4.- Borramos el contenido del fichero App.css
+
+5.- Definimos el fichero App.js
+
+6.- Creo dentro de la carpeta componentes ListaDeTareas.js, Tareas.js, TareaFormulario.js
+7.- Creo dentro de la carpeta hoja-de-estilo ListaDeTareas.css, Tareas.css, TareaFormulario.css
+
+8.- Defino el componente Tarea dentro de la carpeta componentes Tarea.js
+9.- Defino el componente ListaDeTareas dentro de la carpeta componentes ListaDeTareas.js
+9.- Defino el componente TareaFormulario dentro de la carpeta componentes TareaFormulario.js
+
+10.- El componente App.js va a renderizar la Pantalla y los botones
+
+MEJORAS
+
+1.- Almacenar las tareas que añade el usuario
+2.- Enfocar el problema poniendo en App.js todos los compoentes a visualizar, Lista de Tareas y manejar el estado en el fichero App.js
+
